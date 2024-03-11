@@ -10,6 +10,7 @@ SGA_Analysis.R:
 3. Cbind colony sizes with replicate and condition.
 4. Read 1536 FLEX map and cbind. 
 5. Name file and write to computer.
+
 SGA_analysis_TS.R is the variation for temperature sensitive arrays.
 Array_colony_size_measurement.R is used to extract colony size for all array images in a given folder.
 
