@@ -3,6 +3,10 @@ A collection of scripts used to perform computational analysis related to the TP
 
 Details of code package:
 
+For APEX2 Data analysis
+GO_APEX2_graphing.R
+Plotting GO term enrichment on proximity labeling results. 
+
 For R-SGA analysis pipelines
 SGA_Analysis.R:
 1. Read colony size files and append rows/rbind.
